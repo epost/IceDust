@@ -1,4 +1,4 @@
-[![Build status](http://buildfarm.metaborg.org/job/metaborgcube/job/IceDust/job/develop/badge/icon)](http://buildfarm.metaborg.org/job/metaborgcube/job/IceDust/job/develop/)
+[![Build status](http://buildfarm.metaborg.org/job/metaborgcube/job/IceDust/job/feature%252Fuse-spoofax-2.4.1/badge/icon)](http://buildfarm.metaborg.org/job/metaborgcube/job/IceDust/job/feature%252Fuse-spoofax-2.4.1/)
 
 # IceDust ![](icedust/icons/icedust-32x32.png "IceDust logo")
 
